@@ -26,6 +26,11 @@
         .godot = .{
             .path = "../..",
         },
+        // Example using url
+        //.godot = .{
+        //    .url = "https://github.com/r-bar/godot-zig/archive/a8679458c46ad808655ea6ca1ea43fc81ad285a1.zip",
+        //    .hash = "1220859677db64701d8c5e098a4679375da4cd7f31f93f023237cb175a982f1672e9",
+        //},
     },
 
     // Specifies the set of files and directories that are included in this package.
